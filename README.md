@@ -14,4 +14,4 @@ This repository uses GitHub Actions to deploy to Hugging Face automatically.
 
 ### Deployment Workflow:
 - Every push to `main` will automatically update the Hugging Face repository.
-- If there are no changes, the action will skip the commit.
+- If there are no changes, the action will skip the commit
